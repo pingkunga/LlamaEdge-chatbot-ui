@@ -540,14 +540,14 @@ export const ChatInput = ({
             </div>
             <div
                 className="px-3 pt-2 pb-3 text-center text-[12px] text-black/50 dark:text-white/50 md:px-4 md:pt-3 md:pb-6">
-                <span>Based on </span>
+                <span>PingkungA </span>
                 <a
                     href="https://github.com/second-state/chatbot-ui"
                     target="_blank"
                     rel="noreferrer"
                     className="underline"
                 >
-                    chatbot-ui
+                    personal chatbot
                 </a>
             </div>
         </div>
